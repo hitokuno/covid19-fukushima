@@ -1,6 +1,6 @@
 {
   "hosting": [{
-    "site": "fukushima-covid19",
+    "site": "hitokuno-covid19-fukushima",
     "public": "dist",
     "ignore": [
       "firebase.json",
@@ -14,7 +14,7 @@
       }
     ]
   }, {
-    "site": "dev-fukushima-covid19",
+    "site": "hitokuno-covid19-fukushima-dev",
     "public": "dist",
     "ignore": [
       "firebase.json",
@@ -28,7 +28,7 @@
       }
     ]
   }, {
-    "site": "stg-fukushima-covid19",
+    "site": "hitokuno-covid19-fukushima-stg",
     "public": "dist",
     "ignore": [
       "firebase.json",
